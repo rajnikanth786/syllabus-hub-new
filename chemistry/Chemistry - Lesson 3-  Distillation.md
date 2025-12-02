@@ -95,6 +95,8 @@ The salt **does not evaporate** because its boiling point is extremely high.
 
 ---
 
+![Separating salt Water](../images/distillation.png)
+
 # 🧪 **Types of Distillation**
 
 ### **1. Simple Distillation**
@@ -106,12 +108,27 @@ Used when separating:
 
 ### **2. Fractional Distillation**
 
-Used when separating:
+Miscible liquids are ones that can mix together – like water and ethanol.
+ 
+Immiscible liquids are ones that can’t – like oil and water.
 
-* Mixtures of many liquids (e.g., crude oil)
-* Liquids with **similar boiling points**
 
-A **fractionating column** improves separation.
+Fractional distillation
+ separates miscible liquids that have different boiling points. It is useful for separating ethanol from a mixture of ethanol and water, and for separating crude oil into different products such as petrol, diesel and kerosene.
+
+When the mixture is heated:
+
+* the liquids boil at their boiling point.
+* their vapours rise through a column which is hot at the bottom and cooler at the top.
+* the vapour condense when they reach a part of the column that is below the temperature of their boiling point.
+* the liquids which condense in the column drip back into the flask.
+* any gas that makes it to the top of the fractioning column enters the condenser where it is changed to a liquid.
+* the liquid runs into a collecting vessel.
+* distillates collected over a narrow temperature range are known as fractions.
+
+
+
+![Fractional distillation process to separate ethanol from water](../images/fractional-dist.png)
 
 ---
 
@@ -150,37 +167,8 @@ Distillation separates liquids using:
 * **Condensation**
 * **Different boiling points**
 
-Great! Here are the next resources — fully in **Year 7 GCSE-style**, clear, simple, and exam-ready.
-
 ---
-
-# 📘 **1. Labelled Distillation Diagram (Markdown-Friendly)**
-
-```
-     Heat Source
-        🔥
-        |
-   [ Boiling Flask ]
-        |  (mixture heated)
-        |
-   ---- Thermometer ----
-        | (measures vapour temperature)
-        |
-   ===== Fractionating Tube (optional) =====
-        |
-     →→→→→→  Vapour travels →→→→→→
-        |
-   [ Liebig Condenser ]
-   |----------------------------|
-   |      cold water IN  ←     |
-   |      cold water OUT →     |
-   |----------------------------|
-        |
-   ↓ Condensed Pure Liquid
-  [ Receiving Flask ]
-```
-
-You can paste this directly into your teaching slides or worksheets.
+# BBC Bitesize Revision Guide: [Link to Guide](https://www.bbc.co.uk/bitesize/guides/zmbvmfr/revision/8)
 
 ---
 

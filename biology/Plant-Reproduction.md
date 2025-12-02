@@ -41,19 +41,7 @@ Plants reproduce in two main ways:
 
 Flowers contain male and female reproductive organs.
 
-```
-             stigma
-               |
-            (sticky)
-               |
-             style
-               |
-   anther   ovary (contains ovules)
-     |        |
-   (pollen)   |
-     |        |
-  filament   ovule
-```
+![Structure of Flower](../images/structure-flower.jpg)
 
 ## **Main Parts and Their Functions**
 
